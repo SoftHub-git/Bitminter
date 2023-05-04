@@ -1,4 +1,4 @@
-# BitMiner
+# BitMinter
 
 ![image](https://user-images.githubusercontent.com/73274922/236248552-dc0c6e73-3e1c-472c-9943-d73e288b2fa4.png)
 
